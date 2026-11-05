@@ -1,3 +1,6 @@
+# Dependencies
+node_modules/
+
 # Agent skills and customizations (local development only)
 .agents/
 .agent/
